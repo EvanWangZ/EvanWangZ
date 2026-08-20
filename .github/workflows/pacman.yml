@@ -24,7 +24,7 @@ jobs:
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: zenozan
+          github_user_name: EvanWangZ
 
       - name: Publish Pacman Graph
         uses: crazy-max/ghaction-github-pages@v4
